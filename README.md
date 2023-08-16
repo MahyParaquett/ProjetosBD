@@ -1,2 +1,2 @@
 # ProjetosBD
-Exercícios da matéria Banco de dados
+Exercícios individuais da matéria Banco de dados
