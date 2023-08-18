@@ -10,9 +10,9 @@ select
 from
 	city;
 
---Exibir mudando os nomes dos campos
+--Exibir apelidando os atributos da coluna (só funciona em tempo de execução)
 select
-	city as cidade,
+	city as cidade,--posso escrever entre "" para usar maiúculo, acentos ou espaço
 	country_id as id_pais
 from
 	city;
@@ -39,5 +39,5 @@ select
 from
 	city
 where
-	city like '%a' --%a=termina com a / %a% tem a / a% começa com a
-	and country_id=44;
+	country_id = 44
+	and city like '%a%';
