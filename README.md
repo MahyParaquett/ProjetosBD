@@ -16,7 +16,7 @@ A denúncia deve conter nome da vítima, nome do agressor, local (casa ou rua) e
 ## Modelo lógico
 
 <div align="center">
-<img src="https://github.com/MahyParaquett/ProjetosBD/blob/69d70ed52f18df49cbb3bc621c814d0616a37df6/TrabalhoIndividual/modelo%20logico.png">
+<img src="https://github.com/MahyParaquett/ProjetosBD/blob/1ee03ddc6b18ecb631bcdef1fe784b431672a4b9/TrabalhoIndividual/modelo%20l%C3%B3gico.png">
  </div>
 
 ## Tecnologias usadas
